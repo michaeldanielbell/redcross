@@ -1,0 +1,10 @@
+{
+    "name": "Red Cross",
+    "scope": "./",
+    "start_url": "index.html",
+    "display": "standalone",
+    "orientation": "any",
+    "theme_color": "#ee3224",
+    "background_color": "#ee3224",
+    "short_name": "Red Cross"
+}
